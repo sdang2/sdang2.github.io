@@ -22,4 +22,4 @@ this is ~~strikethrough~~ and this is a </subscript>
 
 ## References
 1. Github Cheatsheet from [cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-2. This was an assignment from the [Professor github](https://github.com/jakobzhao/geog328)
+2. This was an assignment from the [Professor](https://github.com/jakobzhao/geog328)
