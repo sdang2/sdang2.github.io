@@ -1,0 +1,25 @@
+# Practice with Markdown
+![picture 1](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.inc.com%2Fuploaded_files%2Fimage%2F1920x1080%2Fgetty_133970892_157811.jpg&tbnid=A4Z-LS-6-EurWM&vet=12ahUKEwidmJXd7tqBAxUaHDQIHSRNDHMQMygAegQIARBz..i&imgrefurl=https%3A%2F%2Fwww.inc.com%2Fwanda-thibodeaux%2Fheres-what-practicing-does-to-your-brain-and-how-to-do-it-right.html&docid=jiQ7uFZXI9PBGM&w=1920&h=1080&q=practice&ved=2ahUKEwidmJXd7tqBAxUaHDQIHSRNDHMQMygAegQIARBz)
+
+A practice of my skills with markdown files! 
+
+# Section 1 (level 1 header)
+**Section 1** , this is section one with *italics* and >quotes 
+
+this is **BOLD** and this is *ITALICS*
+this is ~~strikethrough~~ and this is a </subscript> 
+
+## Section 2 (level 2 header)
+**An order of the best ice cream flavors**
+1. Vanilla
+1. Chocolate
+1. Strawberry
+
+### Section 3 (level 3 header)
+**Emojis**
+:+1: 
+
+
+## References
+1. Github Cheatsheet from [cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+2. This was an assignment from the [Professor github](https://github.com/jakobzhao/geog328)
