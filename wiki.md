@@ -4,10 +4,10 @@
 A practice of my skills with markdown files! 
 
 # Section 1 (level 1 header)
-**Section 1** , this is section one with *italics* and >quotes 
+**Section 1** , this is section one with *italics* 
 
 this is **BOLD** and this is *ITALICS*
-this is ~~strikethrough~~ and this is a </subscript> 
+this is ~~strikethrough~~
 
 ## Section 2 (level 2 header)
 **An order of the best ice cream flavors**
