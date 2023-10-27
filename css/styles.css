@@ -24,7 +24,7 @@
 /* Add an active class to highlight the current page */
 .topnav a.active {
   background-color: #c828d4;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 /* Hide the icon that should open and close the topnav on small screens */
