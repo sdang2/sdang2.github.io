@@ -45,7 +45,7 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 
-function myFunction(imgs) {
+function myFunction2(imgs) {
     // Get the expanded image
     var expandImg = document.getElementById("expandedImg");
     // Get the image text
