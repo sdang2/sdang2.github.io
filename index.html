@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+     <!-- Navigation bar -->
+     <div class="topnav" id="myTopnav">
+        <!-- Active link pointing to the index.html page -->
+        <a class="active" href="index.html">Abstract</a>
+
+        <!-- Links to other sections -->
+        <a href="section1.html">Section 1</a>
+        <a href="section2.html">Section 2</a>
+        <a href="section3.html">DON'T CLICK</a>
+ 
+    </div>
+    <!-- Additional sections go here -->
+    <div class="content">
+        <h1>WELCOME TO MY PAGE</h1>
+        <p>click on these cool images to enlarge them!</p>
+        <div class="row">
+            <div class="column">
+              <img src="images/dog.jpeg" alt="Nature" width="300" height="200" onclick="myFunction(this);">
+            </div>
+            <div class="column">
+              <img src="images/mint.webp" alt="Snow" width="300" height="200" onclick="myFunction(this);">
+            </div>
+            <div class="column">
+              <img src="images/thai.jpeg" alt="Mountains" width="300" height="200" onclick="myFunction(this);">
+            </div>
+            </div>
+          
+          <!-- The expanding image container -->
+          <div class="container2">
+            <!-- Close the image -->
+            <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+          
+            <!-- Expanded image -->
+            <img id="expandedImg" style="width:75%">
+          
+            <!-- Image text -->
+            <div id="imgtext"></div>
+          </div>
+
+    </div>
+    <script src="js/main.js"></script>
+</body>
+</html>
